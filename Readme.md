@@ -4,7 +4,7 @@ This is the classic Hello World. The purpose was to demonstrate my development e
 visual studio code, and Git/Github
 
 
-[Software Demo Video](https://youtu.be/7dW2PoljSkQ)
+* [Software Demo Video](https://youtu.be/7dW2PoljSkQ)
 
 # Development Environment
 
